@@ -28,7 +28,7 @@ This project compares the nightlife scenes in **Heidelberg** and **Mannheim**, u
 ---
 
 ## How to View
-1. Download the Tableau project file: Student Nightlife Dashboard.
+1. Download the Tableau project file: Exploring Student Nightlife Dashboard.
 2. Open the file in Tableau Desktop or Tableau Public.
 
 ## 🔧 Tools
