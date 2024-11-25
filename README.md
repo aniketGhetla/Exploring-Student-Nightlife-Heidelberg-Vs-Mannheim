@@ -30,3 +30,5 @@ This project compares the nightlife scenes in **Heidelberg** and **Mannheim**, u
 ![Python](https://img.shields.io/badge/Python-3.9-blue) ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-green)
 
 ---
+## Dashbaord Overview
+![image](https://github.com/user-attachments/assets/550fe872-37d8-42c7-9ca4-9a4424b2c70f)
