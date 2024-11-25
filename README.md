@@ -6,7 +6,8 @@ This project compares the nightlife scenes in **Heidelberg** and **Mannheim**, G
 ---
 
 ## 📊 Data Sources
-1. **Student Survey([Click Here for More Info](https://docs.google.com/forms/d/e/1FAIpQLSfqLW6ZeEPhgEPAjdpFpukrC5PrKKbmhQecHXLUg9WKUpUhzg/viewform?usp=sf_link))** 🧑‍🎓
+1. **Student Survey([Click Here to view the form](https://docs.google.com/forms/d/e/1FAIpQLSfqLW6ZeEPhgEPAjdpFpukrC5PrKKbmhQecHXLUg9WKUpUhzg/viewform?usp=sf_link))** 🧑‍🎓 
+    -Student survey asking them the basic question like, which city has better nightlife, popular clubs average spending etc. 
 2. **Google Maps API** 🗺️
 3. **Event Calendar (Eventbrite)** 🎟️
 
